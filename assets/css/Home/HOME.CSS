@@ -1,0 +1,49 @@
+.home {
+    background: url(../../image/Home2/photo-1582407947304-fd86f028f716.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    
+}
+.scale:hover {
+    transform: scale(1.02);
+    overflow: hidden;
+}
+.scale {
+    transition: transform 0.2s;
+}
+.pop {
+    position: relative;
+    animation-name: pop;
+    animation-duration: 1.7s;
+    
+}
+.pop2 {
+    position: relative;
+    animation-name: pop;
+    animation-duration: 1.5s;
+    
+}
+.pop3 {
+    position: relative;
+    animation-name: pop;
+    animation-duration: 1.3s;
+    
+}
+@keyframes pop {
+    from { bottom:50% ;} to {
+        bottom: 0%;
+    }
+}
+@keyframes pop2 {
+    from { bottom:50% ;} to {
+        bottom: 0%;
+    }
+}
+@keyframes pop3 {
+    from { bottom:50% ;} to {
+        bottom: 0%;
+    }
+}
+

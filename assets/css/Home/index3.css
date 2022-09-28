@@ -1,0 +1,20 @@
+.home {
+    background: url(../../image/real-estate-agent-1-1.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    }
+
+.scale:hover {
+    transform: scale(1.05);
+    overflow: hidden;
+}
+.scale {
+    transition: transform 0.5s;
+}
+.star:hover{
+    transform: scale(1.3);
+}
+.star {
+    transition: transform 0.2s;
+}

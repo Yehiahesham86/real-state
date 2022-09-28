@@ -1,0 +1,5 @@
+RewriteEngine on  
+  
+RewriteRule ^BUY  buy.php [NC,L]
+RewriteRule ^INDEX  index.php [NC,L]
+RewriteRule ^LOG  login.php [NC,L] 

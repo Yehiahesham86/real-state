@@ -1,0 +1,29 @@
+.home 
+{
+    height: 75vh;
+    background: linear-gradient( rgba(0,0,0,0.2), rgba(0,0,0,0.8)) , url(../../image/Home/Account\ Issue\ _\ MDDHosting\ -\ Professional\ Cloud\ Hosting\ Solutions.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.navbar
+{
+    
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body
+{
+   
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+   
+}
+.p
+{
+ line-height: 80%;
+}

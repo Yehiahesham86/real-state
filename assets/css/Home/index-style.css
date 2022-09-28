@@ -1,0 +1,69 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.home 
+{
+    width: 100%;
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(../../image/Home/main3.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    overflow: hidden;
+    
+}
+.input
+{
+    position: relative;
+}
+.location
+{
+    position: absolute;
+    top: 26%;
+    left: 54%;
+}
+.third-page
+{
+    background-color: #c2c2c2;
+
+}
+.header 
+{
+    position: relative;
+}
+
+.header::after
+{
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    width: 30%;
+    height: 2px;
+    background-color: black;
+    opacity: 20%;
+}
+.header::before
+{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    width: 30%;
+    height: 2px;
+    background-color: black;
+    opacity: 20%;
+}
+.footer
+{
+    background-color: #EBEBEB;
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }

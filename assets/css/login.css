@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(228, 228, 228)
+}
+.btn {
+    background-color: #dc3545;
+}
+.hover {
+transition: transform 1.5s;
+}
+.hover:hover {
+    transform: rotate(-15deg) scale(1.1);
+   
+}

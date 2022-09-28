@@ -1,0 +1,44 @@
+.home
+{
+    height: 87vh;
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.4)) , url(../../image/Home/main4.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+
+}
+.navbar
+{
+    background-color: #cfcfcf;
+}
+body
+{
+   
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+   
+}
+.sec-page
+{
+    background-color: #F8F8F8;
+}
+
+.p
+{
+    color: #888888;
+}
+.forth-page
+{
+    background-color: #F8F8F8;
+}
+.fifth-page
+{
+    background-color: #797979;
+}
+.fotter
+{
+    background-color: #F8F8F8;
+}
